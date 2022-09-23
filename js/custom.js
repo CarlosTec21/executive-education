@@ -1035,6 +1035,17 @@ $(document).ready(function(){
       $.magnificPopup.open({ items: { src: '#instructor-14', }, type: 'inline' });
     });
 
+    $('.instructor-15').on('click', function () {
+      $.magnificPopup.open({ items: { src: '#instructor-14', }, type: 'inline' });
+    });
+
+
+    $('.instructor-16').on('click', function () {
+      $.magnificPopup.open({ items: { src: '#instructor-14', }, type: 'inline' });
+    });
+
+
+
     const programas = [ 
     ["Advanced Management Program", "AMP-curso.html"], 
     ["Strategic Digital Transformation", "SDT-curso.html"], 
