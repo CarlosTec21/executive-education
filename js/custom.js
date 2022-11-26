@@ -1040,7 +1040,7 @@ $(document).ready(function(){
     ["Strategic Digital Transformation", "SDT-curso.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
     ["Women for Boards", "WFB-curso.html"], 
-    ["Adquisiciones Empresariales", "AE-curso.html"], 
+    ["Mergers & Acquisitions", "MA-curso.html"], 
     ["Management Business Skills", "MBSkills.html"], 
     ["Global Leadership", "GL.html"], 
     ["Familias Empresarias Líderes", "FEL.html"], 
