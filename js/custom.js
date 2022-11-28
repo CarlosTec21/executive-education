@@ -1035,6 +1035,32 @@ $(document).ready(function(){
       $.magnificPopup.open({ items: { src: '#instructor-14', }, type: 'inline' });
     });
 
+    $('.instructor-15').on('click', function () {
+      $.magnificPopup.open({ items: { src: '#instructor-15', }, type: 'inline' });
+    });
+
+    $('.instructor-16').on('click', function () {
+      $.magnificPopup.open({ items: { src: '#instructor-16', }, type: 'inline' });
+    });
+
+    $('.instructor-17').on('click', function () {
+       $.magnificPopup.open({ items: { src: '#instructor-17', }, type: 'inline' });
+    });
+
+    $('.instructor-18').on('click', function () {
+       $.magnificPopup.open({ items: { src: '#instructor-18', }, type: 'inline' });
+    });
+
+    $('.instructor-19').on('click', function () {
+       $.magnificPopup.open({ items: { src: '#instructor-19', }, type: 'inline' });
+    });
+
+    $('.instructor-20').on('click', function () {
+       $.magnificPopup.open({ items: { src: '#instructor-20', }, type: 'inline' });
+    });
+
+
+
     const programas = [ 
     ["Advanced Management Program", "AMP-curso.html"], 
     ["Strategic Digital Transformation", "SDT-curso.html"], 
