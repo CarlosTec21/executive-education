@@ -1062,14 +1062,13 @@ $(document).ready(function(){
 
 
     const programas = [ 
+    ["Familias Empresarias Líderes", "FEL.html"], 
+    ["Management Business Skills", "MBSkills.html"], 
     ["Advanced Management Program", "AMP-curso.html"], 
     ["Strategic Digital Transformation", "SDT-curso.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
     ["Women for Boards", "WFB-curso.html"], 
     ["Mergers & Acquisitions", "MA-curso.html"], 
-    ["Management Business Skills", "MBSkills.html"], 
-    ["Global Leadership", "GL.html"], 
-    ["Familias Empresarias Líderes", "FEL.html"], 
     ["Gestión de Sistemas de Salud", "GSS.html"], 
     ["Liderazgo para la Acción Climática", "LAC.html"], 
     ["Women Leading Organizations", "WLO.html"], 
