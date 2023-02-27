@@ -1067,12 +1067,12 @@ $(document).ready(function(){
     ["Advanced Management Program", "AMP-curso.html"], 
     ["Strategic Digital Transformation", "SDT-curso.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
-    ["Women for Boards", "WFB-curso.html"], 
     ["Mergers & Acquisitions", "MA-curso.html"], 
     ["Gestión de Sistemas de Salud", "GSS.html"], 
     ["Liderazgo para la Acción Climática", "LAC.html"], 
     ["Women Leading Organizations", "WLO.html"], 
     ["HR Evolution", "HRE.html"]
+	["Journey to Conscious Capitalism ", "JCC.html"]
     ];
 
     for (var i = 0; i < programas.length; i++) {
