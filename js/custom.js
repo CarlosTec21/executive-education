@@ -1071,7 +1071,7 @@ $(document).ready(function(){
     ["Gestión de Sistemas de Salud", "GSS.html"], 
     ["Liderazgo para la Acción Climática", "LAC.html"], 
     ["Women Leading Organizations", "WLO.html"], 
-    ["HR Evolution", "HRE.html"]
+    ["HR Evolution", "HRE.html"],
 	["Journey to Conscious Capitalism ", "JCC.html"]
     ];
 
