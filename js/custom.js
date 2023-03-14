@@ -1069,7 +1069,7 @@ $(document).ready(function(){
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
     ["Mergers & Acquisitions", "MA-curso.html"], 
     ["Gestión de Sistemas de Salud", "GSS.html"], 
-    ["Liderazgo para la Acción Climática", "LAC.html"], 
+    ["Gobernanza Climática para Consejeros y Directivos", "GCCD.html"], 
     ["Women Leading Organizations", "WLO.html"], 
     ["HR Evolution", "HRE.html"],
 	["Journey to Conscious Capitalism ", "JCC.html"]
