@@ -1069,10 +1069,13 @@ $(document).ready(function(){
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
     ["Mergers & Acquisitions", "MA-curso.html"], 
     ["Gestión de Sistemas de Salud", "GSS.html"], 
-    ["Gobernanza Climática para Consejeros y Directivos", "GCCD.html"], 
+    ["Gobernanza Climática para Consejeros y Altos Directivos", "GCCD.html"], 
     ["Women Leading Organizations", "WLO.html"], 
     ["HR Evolution", "HRE.html"],
-	["Journey to Conscious Capitalism ", "JCC.html"]
+	["Journey to Conscious Capitalism ", "JCC.html"],
+	["Diploma: Empresas Conscientes | EMERITUS", "https://em.egade.tec.mx/empresas-conscientes?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
+	["Liderazgo Sustentable | EMERITUS", "https://em.egade.tec.mx/liderazgo-sustentable?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
+	["Leading Organizations in the Digital Era | EMERITUS", "https://em.egade.tec.mx/leading-digital-era?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"]
     ];
 
     for (var i = 0; i < programas.length; i++) {
