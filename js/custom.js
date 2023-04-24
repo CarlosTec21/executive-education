@@ -1075,7 +1075,9 @@ $(document).ready(function(){
 	["Journey to Conscious Capitalism ", "JCC.html"],
 	["Diploma: Empresas Conscientes | EMERITUS", "https://em.egade.tec.mx/empresas-conscientes?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
 	["Liderazgo Sustentable | EMERITUS", "https://em.egade.tec.mx/liderazgo-sustentable?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
-	["Leading Organizations in the Digital Era | EMERITUS", "https://em.egade.tec.mx/leading-digital-era?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"]
+	["Leading Organizations in the Digital Era | EMERITUS", "https://em.egade.tec.mx/leading-digital-era?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
+	["Digital Mindset & Acceleration for Business | EMERITUS", "https://em.egade.tec.mx/digital-mindset?utm_source=EGADE&utm_medium=Sitio+EGADE&utm_campaign=Sitio+EGADE"],
+	["Economía Circular: La estrategia de negocio | EMERITUS", "https://em.egade.tec.mx/economia-circular?utm_source=EGADE&utm_medium=Sitio+EGADE&utm_campaign=Sitio+EGADE"]
     ];
 
     for (var i = 0; i < programas.length; i++) {
