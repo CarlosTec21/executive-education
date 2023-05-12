@@ -1073,6 +1073,7 @@ $(document).ready(function(){
     ["Women Leading Organizations", "WLO.html"], 
     ["HR Evolution", "HRE.html"],
 	["Journey to Conscious Capitalism ", "JCC.html"],
+	["Brand Customer Experience", "BCE.html"],
 	["Diploma: Empresas Conscientes | EMERITUS", "https://em.egade.tec.mx/empresas-conscientes?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
 	["Liderazgo Sustentable | EMERITUS", "https://em.egade.tec.mx/liderazgo-sustentable?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
 	["Leading Organizations in the Digital Era | EMERITUS", "https://em.egade.tec.mx/leading-digital-era?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
