@@ -1063,7 +1063,6 @@ $(document).ready(function(){
 
     const programas = [ 
     ["Familias Empresarias Líderes", "FEL.html"], 
-    ["Management Business Skills", "MBSkills.html"], 
     ["Advanced Management Program", "AMP-curso.html"], 
     ["Strategic Digital Transformation", "SDT-curso.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
