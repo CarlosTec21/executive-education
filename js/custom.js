@@ -1064,7 +1064,6 @@ $(document).ready(function(){
     const programas = [ 
     ["Familias Empresarias Líderes", "FEL.html"], 
     ["Advanced Management Program", "AMP-curso.html"], 
-    ["Strategic Digital Transformation", "SDT-curso.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
     ["Mergers & Acquisitions", "MA-curso.html"], 
     ["Gestión de Sistemas de Salud", "GSS.html"], 
