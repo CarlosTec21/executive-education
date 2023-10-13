@@ -1072,7 +1072,6 @@ $(document).ready(function(){
     ["HR Evolution", "HRE.html"],
 	["Journey to Conscious Capitalism ", "JCC.html"],
 	["Brand Customer Experience", "BCE.html"],
-	["INVESCAP: Corporate Venture Capital & Angel Investment", "INVESCAP.html"],
 	["ESG y Finanzas Sostenibles para la Empresa", "ESG.html"],
 	["Diploma: Empresas Conscientes | EMERITUS", "https://em.egade.tec.mx/empresas-conscientes?utm_source=EGADE&utm_medium=website&utm_campaign=B-27474_WW_EM_Website_emco-la_JUN_23_Sitio-EGADE&utm_content=learn-more"],
 	["Liderazgo Sustentable | EMERITUS", "https://em.egade.tec.mx/liderazgo-sustentable?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
