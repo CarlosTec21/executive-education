@@ -977,6 +977,38 @@ $(document).ready(function(){
     $('.modulo-12').on('click', function () {
       $.magnificPopup.open({ items: { src: '#modulo-12', }, type: 'inline' });
     });
+
+	$('.modulo-13').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-13', }, type: 'inline' });
+	});
+
+	$('.modulo-14').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-14', }, type: 'inline' });
+	});
+
+	$('.modulo-15').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-15', }, type: 'inline' });
+	});
+
+	$('.modulo-16').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-16', }, type: 'inline' });
+	});
+
+	$('.modulo-17').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-17', }, type: 'inline' });
+	});
+
+	$('.modulo-18').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-18', }, type: 'inline' });
+	});
+
+	$('.modulo-19').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-19', }, type: 'inline' });
+	});
+
+	$('.modulo-20').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#modulo-20', }, type: 'inline' });
+	});
  
 
     $('.instructor-1').on('click', function () {
