@@ -1103,10 +1103,11 @@ $(document).ready(function(){
     ["Women Leading Organizations", "WLO.html"], 
     ["HR Evolution", "HRE.html"],
 	["Journey to Conscious Capitalism ", "JCC.html"],
+	["Brand Customer Experience", "BCE.html"],
 	["ESG y Finanzas Sostenibles para la Empresa", "ESG.html"],
 	["Diploma: Empresas Conscientes | EMERITUS", "https://em.egade.tec.mx/empresas-conscientes?utm_source=EGADE&utm_medium=website&utm_campaign=B-27474_WW_EM_Website_emco-la_JUN_23_Sitio-EGADE&utm_content=learn-more"],
 	["Liderazgo Sustentable | EMERITUS", "https://em.egade.tec.mx/liderazgo-sustentable?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
-	["Dirección de la Innovación Digital | EMERITUS", "https://em.egade.tec.mx/direccion-de-innovacion-digital?utm_source=EGADE&utm_medium=website&utm_campaign=B-26527_WW_EM_Website_edt-la_JUN_23_Sitio-EGADE&utm_content=learn-more"],
+	["Estrategia de Negocio: de la tecnología a la IA | EMERITUS", "https://bitly.emeritus.org/3SuVGKI"],
 	["Digital Mindset & Acceleration for Business | EMERITUS", "https://em.egade.tec.mx/digital-mindset?utm_source=EGADE&utm_medium=website&utm_campaign=B-26128_WW_EM_Website_edimab-la_JUN_23_Sitio-EGADE&utm_content=learn-more"],
 	["Economía Circular | EMERITUS", "https://em.egade.tec.mx/economia-circular?utm_source=EGADE&utm_medium=website&utm_campaign=B-26121_WW_EM_Website_egade-eci-la_JUN_23_Sitio-EGADE&utm_content=learn-more"],
 	["Finanzas para la Sustentabilidad | EMERITUS", "https://em.egade.tec.mx/finanzas-sustentabilidad?utm_source=EGADE&utm_medium=website&utm_campaign=B-26530_WW_EM_Website_egade-fin-la_JUN_23_Sitio-EGADE&utm_content=learn-more"]
