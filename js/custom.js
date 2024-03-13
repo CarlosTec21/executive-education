@@ -1095,7 +1095,8 @@ $(document).ready(function(){
 
     const programas = [ 
     ["Familias Empresarias Líderes", "FEL.html"], 
-    ["Advanced Management Program", "AMP-curso.html"], 
+    ["Advanced Management Program", "AMP-curso.html"],
+	["Advanced Management Program - Perú", "AMP-Peru.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"], 
     ["Mergers & Acquisitions", "MA-curso.html"], 
     ["Gestión de Sistemas de Salud", "GSS.html"], 
