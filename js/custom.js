@@ -1088,8 +1088,48 @@ $(document).ready(function(){
     });
 
     $('.instructor-20').on('click', function () {
-       $.magnificPopup.open({ items: { src: '#instructor-20', }, type: 'inline' });
-    });
+		$.magnificPopup.open({ items: { src: '#instructor-20', }, type: 'inline' });
+	});
+	
+	$('.instructor-21').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-21', }, type: 'inline' });
+	});
+	
+	$('.instructor-22').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-22', }, type: 'inline' });
+	});
+	
+	$('.instructor-23').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-23', }, type: 'inline' });
+	});
+	
+	$('.instructor-24').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-24', }, type: 'inline' });
+	});
+	
+	$('.instructor-25').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-25', }, type: 'inline' });
+	});
+	
+	$('.instructor-26').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-26', }, type: 'inline' });
+	});
+	
+	$('.instructor-27').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-27', }, type: 'inline' });
+	});
+	
+	$('.instructor-28').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-28', }, type: 'inline' });
+	});
+	
+	$('.instructor-29').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-29', }, type: 'inline' });
+	});
+	
+	$('.instructor-30').on('click', function () {
+		$.magnificPopup.open({ items: { src: '#instructor-30', }, type: 'inline' });
+	});
 
 
 
