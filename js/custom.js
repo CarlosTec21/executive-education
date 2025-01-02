@@ -1143,7 +1143,6 @@ $(document).ready(function(){
     ["Women Leading Organizations", "WLO.html"], 
     ["HR Evolution", "HRE.html"],
 	["Journey to Conscious Capitalism ", "JCC.html"],
-	["Brand Customer Experience", "BCE.html"],
 	["ESG y Finanzas Sostenibles para la Empresa", "ESG.html"],
 	["Seminario de Administración y Planeación Estratégica del Comercio Detallista", "SAPECD.html"],
 	["Senior Management Program", "SMP.html"],
