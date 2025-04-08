@@ -1135,8 +1135,7 @@ $(document).ready(function(){
 
     const programas = [ 
     ["Familias Empresarias Líderes", "FEL.html"], 
-    ["Advanced Management Program", "AMP-curso.html"],
-	["Advanced Management Program - Perú", "AMP-Peru.html"], 
+    ["Advanced Management Program", "AMP-curso.html"], 
     ["Formación de Consejeros en Administración", "FCA-curso.html"],  
     ["Gobernanza Climática para Consejeros y Altos Directivos", "GCCD.html"], 
     ["Women Leading Organizations", "WLO.html"], 
@@ -1144,8 +1143,6 @@ $(document).ready(function(){
 	["Journey to Conscious Capitalism ", "JCC.html"],
 	["ESG y Finanzas Sostenibles para la Empresa", "ESG.html"],
 	["Seminario de Administración y Planeación Estratégica del Comercio Detallista", "SAPECD.html"],
-	["Senior Management Program", "SMP.html"],
-	["Liderazgo Adaptativo para la Transformación", "LAT.html"],
 	["Diploma: Empresas Conscientes | EMERITUS", "https://em.egade.tec.mx/empresas-conscientes?utm_source=EGADE&utm_medium=website&utm_campaign=B-27474_WW_EM_Website_emco-la_JUN_23_Sitio-EGADE&utm_content=learn-more"],
 	["Liderazgo Sustentable | EMERITUS", "https://em.egade.tec.mx/liderazgo-sustentable?utm_medium=EmWebsite&utm_content=University&utm_term=EGADE-Business-School&utm_campaign=direct_EmWebsite_University_EGADE-Business-School"],
 	["Estrategia de Negocio: de la tecnología a la IA | EMERITUS", "https://bitly.emeritus.org/3SuVGKI"],
